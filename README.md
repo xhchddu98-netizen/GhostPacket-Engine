@@ -7,3 +7,4 @@ git clone
 
 # 2. Mount the Kernel Driver (Requires Administrator Privileges)
 C:\Path\To\Python.exe qi_shield.py
+Mail：xhchddu98@gmail.com
